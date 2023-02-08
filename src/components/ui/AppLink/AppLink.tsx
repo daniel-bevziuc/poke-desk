@@ -5,7 +5,8 @@ import classes from './AppLink.module.scss';
 
 export enum AppLinkTheme {
   PRIMARY = 'primary',
-  SECONDARY = 'secondary'
+  SECONDARY = 'secondary',
+  WHITE = 'white'
 }
 
 interface AppLinkProps extends LinkProps {

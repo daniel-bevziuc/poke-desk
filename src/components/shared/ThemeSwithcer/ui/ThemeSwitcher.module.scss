@@ -1,0 +1,12 @@
+.ThemeSwitcher {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  display: flex;
+  overflow: hidden;
+
+  .halfBtn {
+    width: 50%;
+    height: 100%;
+  }
+}
